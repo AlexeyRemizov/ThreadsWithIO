@@ -1,0 +1,6 @@
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\ThreadsExample\ThreadsExample\bin\Debug\ThreadsExample.exe.config
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\ThreadsExample\ThreadsExample\bin\Debug\ThreadsExample.exe
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\ThreadsExample\ThreadsExample\bin\Debug\ThreadsExample.pdb
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\ThreadsExample\ThreadsExample\obj\Debug\ThreadsExample.csprojResolveAssemblyReference.cache
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\ThreadsExample\ThreadsExample\obj\Debug\ThreadsExample.exe
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\ThreadsExample\ThreadsExample\obj\Debug\ThreadsExample.pdb
